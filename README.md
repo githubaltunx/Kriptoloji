@@ -1,4 +1,3 @@
-# Sifre
 
 
 # Çeşitli Kriptolama Algoritmaları
